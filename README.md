@@ -1,7 +1,7 @@
-# Arduino n nRF24L01 Based Radio Controller PCB
+# Arduino and nRF24L01 Based Radio Controller PCB
 
->This the gerbers of a Arduino Based Radio Controller PCB!
-This has a USB-mini port on it that helps for programming or maybe sending Serial data into the computer.
+>Gerbers of a Arduino Based Radio Controller PCB!
+This has a USB-mini port on it that helps for programming or maybe sending Serial data back into the computer.
 
 ### **Sorry, the Schematic is missing, but the components are writen down below:**
 
@@ -24,13 +24,14 @@ This has a USB-mini port on it that helps for programming or maybe sending Seria
 16. 0.1uF Capacitor 0603 3x (C4, C6, C3)
 17. 10nF Capacitor 0603 3x (C1, C5, C2)
 18. SMD USB mini 1x (J3)
-19. Pin headers male 4x (J1, J2)
-20. 3 Pin on and off Switch 1x (SW1)
+19. Male pin headers 4x (J1, J2)
+20. 3 Pin on-off Switch 1x (SW1)
 21. 20MHz Crystal 1x (Y1)
 22. 22pF Caps 0805 4x (C14, C15, C7, C9)
-23. LM1117 5.0v 1x (U3)
-24. LM1117 3.3v 1x (U1)
+23. AMS1117 5.0v 1x (U3)
+24. AMS1117 3.3v 1x (U1)
 25. 5mm Spacers for nRF chip 2x
+26. 3mm Screws for nRF chip 4x
 
 
 > Specific nRF24L01 Chip with 1800m Range and 
