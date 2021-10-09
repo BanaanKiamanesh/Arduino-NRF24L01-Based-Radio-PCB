@@ -1,7 +1,7 @@
 # Arduino n nRF24L01 Based Radio Controller PCB
 
->This is a Arduino Based Radio Controller PCB gerber files!
-This has a usb-mini port on it that helps for programming or maybe sending Serial data into the computer.
+>This the gerbers of a Arduino Based Radio Controller PCB!
+This has a USB-mini port on it that helps for programming or maybe sending Serial data into the computer.
 
 ### **Sorry, the Schematic is missing, but the components are writen down below:**
 
